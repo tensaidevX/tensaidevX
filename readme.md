@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tensaidevx&label=Profile%20views&color=0e75b6&style=flat" alt="tensaidevx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenssaidevx" alt="tenssaidevx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tensaidevx" alt="tensaidevx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tensaidev" target="blank"><img src="https://img.shields.io/twitter/follow/tensaidev?logo=twitter&style=for-the-badge" alt="tensaidev" /></a> </p>
 
