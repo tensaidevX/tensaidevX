@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Typescript, Next JS, React**
+- 💬 Ask me about **Javascript, Typescript, Next JS, React**
 
 - 📫 How to reach me **tensaidevx@gmail.com**
 
